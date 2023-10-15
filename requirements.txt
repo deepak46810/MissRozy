@@ -13,3 +13,4 @@ apscheduler
 requests
 pyromod
 colorama
+encodings
